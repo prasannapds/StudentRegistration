@@ -100,9 +100,9 @@ E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\Micro
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\System.IO.Compression.dll
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\VBCSCompiler.exe
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\ApplicationInsights.config
-E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Sudent Registration.dll.config
-E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Sudent Registration.dll
-E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Sudent Registration.pdb
+E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Student Registration.dll.config
+E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Student Registration.dll
+E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Student Registration.pdb
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\csc.exe
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\csc.exe.config
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\roslyn\csc.rsp
@@ -186,5 +186,5 @@ E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\bin\Microsoft.AI
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
 E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\StudentRegistration.csproj.CopyComplete
-E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\Sudent Registration.dll
-E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\Sudent Registration.pdb
+E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\Student Registration.dll
+E:\Working\MVC\Projects\StudentRegistration\Sudent Registration\obj\Debug\Student Registration.pdb

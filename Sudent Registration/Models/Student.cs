@@ -7,7 +7,7 @@ namespace Student_Registration.Models
 {
     public class Student
     {
-        public int Id { get; set; }
+        public int StudentId { get; set; }
         public string StudNumber { get; set; }
         public string StrudLastName { get; set; }
         public string StudFirstName { get; set; }
@@ -15,5 +15,9 @@ namespace Student_Registration.Models
         public DateTime StudDOB { get; set; }
         public DateTime CreatedOn { get; set; }
         public string CreatedBy { get; set; }
+
+        public ICollection<Enrollment> Enrollments { get; set; }
+
+
     }
 }

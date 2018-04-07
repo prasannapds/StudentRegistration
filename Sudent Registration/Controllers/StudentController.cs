@@ -15,9 +15,10 @@ namespace Student_Registration.Controllers
         public ActionResult Index()
         {
             var stud = db.TBL_Students.ToList();
+        
             // Student stud = new Student();
 
-      
+
             return View(stud);
         }
 

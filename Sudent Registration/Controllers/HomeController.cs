@@ -11,7 +11,7 @@ namespace Student_Registration.Controllers
         public ActionResult Index()
         {
             return View(); 
-            //this is test ccomment
+            //this is test ccomment new 
         }
 
         public ActionResult About()

@@ -12,7 +12,7 @@ namespace Student_Registration.Models
         public string StrudLastName { get; set; }
         public string StudFirstName { get; set; }
         public int StudAge { get; set; }
-        public DateTime Stud_DOB { get; set; }
+        public DateTime StudDOB { get; set; }
         public DateTime CreatedOn { get; set; }
         public string CreatedBy { get; set; }
     }

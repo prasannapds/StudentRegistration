@@ -1,4 +1,4 @@
-﻿@model  Student_Registration.Models.Student 
+﻿@model  IEnumerable<Student_Registration.Models.Student>
 
 @{
     ViewBag.Title = "Index";
@@ -6,6 +6,17 @@
 
 <h2>Index</h2>
 
+@foreach (var item in Model)
+{
+    <h4>
+        @item.StudNumber : @item.StrudLastName  @item.StudFirstName <br />
+        @item.StudAge :   @item.StudDOB.ToString("yyyy-MM-dd")
 
-<h3> @Model.StrudLastName </h3>
+
+    </h4>
+    @item.CreatedBy;   @item.CreatedOn.ToString("yyyy-MM-dd");
+    <br />
+
+}
+
 

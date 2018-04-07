@@ -9,13 +9,15 @@ namespace Student_Registration.Controllers
 {
     public class StudentController : Controller
     {
+        SchoolContext db = new SchoolContext();
+
         // GET: Student
         public ActionResult Index()
         {
-            Student stud = new Student();
+            var stud = db.TBL_Students.ToList();
+            // Student stud = new Student();
 
-            stud.StrudLastName = "Jhone";
-
+      
             return View(stud);
         }
 
